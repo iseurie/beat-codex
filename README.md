@@ -1,1 +1,1 @@
-`beat-codex` is an HTTP server for indexing and serving entries of toy cars.
+`beat-codex` is an HTTP server for indexing and retrieving entries of toy cars.
