@@ -1,0 +1,14 @@
+[package]
+name = "beat-codex"
+version = "0.1.0"
+authors = ["Aлыа <iseurie@gmail.com>"]
+
+[dependencies]
+error_chain = "0.11.0-rc.2"
+rusqlite = "0.12.0"
+futures = "0.1.15"
+hyper = "0.11.2"
+horrorshow = "0.6.2"
+formdata = "0.12.1"
+regex = "0.2"
+mime = "0.3.3"
